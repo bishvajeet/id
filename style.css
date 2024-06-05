@@ -12,10 +12,11 @@ fa-brands{
 }
 
 #img{
-    margin-right: 20px;
+    margin-right: 40px;
+    margin-bottom: 30px;
     float: left;
-    height: 90px;
-    width: 111px;
+    height: 100px;
+    width: 100px;
     }
 .cls1{
     color: red;
